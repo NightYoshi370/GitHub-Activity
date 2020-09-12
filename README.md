@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1043](https://github.com//DS-Homebrew/TWiLightMenu/issues/1043) in [DS-Homebrew/TWiLightMenu](https://github.com//DS-Homebrew/TWiLightMenu)
+1. 💪 Opened PR [#826](https://github.com//nh-server/Kurisu/pull/826) in [nh-server/Kurisu](https://github.com//nh-server/Kurisu)
 <!--END_SECTION:activity-->
 
 <!--
