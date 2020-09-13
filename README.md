@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#826](https://github.com//nh-server/Kurisu/pull/826) in [nh-server/Kurisu](https://github.com//nh-server/Kurisu)
+1. 🎉 Merged PR [#1](https://github.com//NightYoshi370/Gist-Updater/pull/1) in [NightYoshi370/Gist-Updater](https://github.com//NightYoshi370/Gist-Updater)
 <!--END_SECTION:activity-->
 
 <!--
