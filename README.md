@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//NightYoshi370/Gist-Updater/pull/1) in [NightYoshi370/Gist-Updater](https://github.com//NightYoshi370/Gist-Updater)
+1. 🗣 Commented on [#1789](https://github.com//hacks-guide/Guide_3DS/issues/1789) in [hacks-guide/Guide_3DS](https://github.com//hacks-guide/Guide_3DS)
 <!--END_SECTION:activity-->
 
 <!--
