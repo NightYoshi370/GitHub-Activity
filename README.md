@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1187](https://github.com//DS-Homebrew/TWiLightMenu/issues/1187) in [DS-Homebrew/TWiLightMenu](https://github.com//DS-Homebrew/TWiLightMenu)
+1. ❗️ Closed issue [#1173](https://github.com//DS-Homebrew/TWiLightMenu/issues/1173) in [DS-Homebrew/TWiLightMenu](https://github.com//DS-Homebrew/TWiLightMenu)
 <!--END_SECTION:activity-->
 
 <!--
