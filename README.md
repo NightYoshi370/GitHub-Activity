@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1789](https://github.com//hacks-guide/Guide_3DS/issues/1789) in [hacks-guide/Guide_3DS](https://github.com//hacks-guide/Guide_3DS)
+1. ❗️ Closed issue [#1187](https://github.com//DS-Homebrew/TWiLightMenu/issues/1187) in [DS-Homebrew/TWiLightMenu](https://github.com//DS-Homebrew/TWiLightMenu)
 <!--END_SECTION:activity-->
 
 <!--
