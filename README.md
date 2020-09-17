@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#469](https://github.com//anuraghazra/github-readme-stats/issues/469) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+1. 🗣 Commented on [#241](https://github.com//anuraghazra/github-readme-stats/issues/241) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 <!--
