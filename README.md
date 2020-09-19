@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#241](https://github.com//anuraghazra/github-readme-stats/issues/241) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+1. 🗣 Commented on [#1191](https://github.com//DS-Homebrew/TWiLightMenu/issues/1191) in [DS-Homebrew/TWiLightMenu](https://github.com//DS-Homebrew/TWiLightMenu)
 <!--END_SECTION:activity-->
 
 <!--
