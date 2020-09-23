@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1015](https://github.com//DS-Homebrew/nds-bootstrap/issues/1015) in [DS-Homebrew/nds-bootstrap](https://github.com//DS-Homebrew/nds-bootstrap)
+1. 🗣 Commented on [#1197](https://github.com//DS-Homebrew/TWiLightMenu/issues/1197) in [DS-Homebrew/TWiLightMenu](https://github.com//DS-Homebrew/TWiLightMenu)
 <!--END_SECTION:activity-->
 
 <!--
