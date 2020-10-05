@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1202](https://github.com/DS-Homebrew/TWiLightMenu/pull/1202) in [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
+1. 🎉 Merged PR [#2](https://github.com/NightYoshi370/Guide_3DS/pull/2) in [NightYoshi370/Guide_3DS](https://github.com/NightYoshi370/Guide_3DS)
 <!--END_SECTION:activity-->
 
 <!--
