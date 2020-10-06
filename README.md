@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/NightYoshi370/Gist-Updater/pull/2) in [NightYoshi370/Gist-Updater](https://github.com/NightYoshi370/Gist-Updater)
+1. 🎉 Merged PR [#5](https://github.com/NightYoshi370/nightyoshi370.github.io/pull/5) in [NightYoshi370/nightyoshi370.github.io](https://github.com/NightYoshi370/nightyoshi370.github.io)
 <!--END_SECTION:activity-->
 
 <!--
