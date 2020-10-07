@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/NightYoshi370/nightyoshi370.github.io/pull/5) in [NightYoshi370/nightyoshi370.github.io](https://github.com/NightYoshi370/nightyoshi370.github.io)
+1. ❗️ Opened issue [#640](https://github.com/digitalocean/hacktoberfest/issues/640) in [digitalocean/hacktoberfest](https://github.com/digitalocean/hacktoberfest)
 <!--END_SECTION:activity-->
 
 <!--
