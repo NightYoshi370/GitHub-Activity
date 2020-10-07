@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#640](https://github.com/digitalocean/hacktoberfest/issues/640) in [digitalocean/hacktoberfest](https://github.com/digitalocean/hacktoberfest)
+1. ❗️ Opened issue [#119](https://github.com/Bloggify/github-calendar/issues/119) in [Bloggify/github-calendar](https://github.com/Bloggify/github-calendar)
 <!--END_SECTION:activity-->
 
 <!--
