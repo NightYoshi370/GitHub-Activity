@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#835](https://github.com/nh-server/Kurisu/issues/835) in [nh-server/Kurisu](https://github.com/nh-server/Kurisu)
+1. 🎉 Merged PR [#7](https://github.com/NightYoshi370/nightyoshi370.github.io/pull/7) in [NightYoshi370/nightyoshi370.github.io](https://github.com/NightYoshi370/nightyoshi370.github.io)
 <!--END_SECTION:activity-->
 
 <!--
