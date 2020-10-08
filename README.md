@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#119](https://github.com/Bloggify/github-calendar/issues/119) in [Bloggify/github-calendar](https://github.com/Bloggify/github-calendar)
+1. 🎉 Merged PR [#6](https://github.com/NightYoshi370/nightyoshi370.github.io/pull/6) in [NightYoshi370/nightyoshi370.github.io](https://github.com/NightYoshi370/nightyoshi370.github.io)
 <!--END_SECTION:activity-->
 
 <!--
