@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/Universal-Team/Relaunch/issues/37) in [Universal-Team/Relaunch](https://github.com/Universal-Team/Relaunch)
+1. 🗣 Commented on [#1204](https://github.com/DS-Homebrew/TWiLightMenu/issues/1204) in [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
 <!--END_SECTION:activity-->
 
 <!--
