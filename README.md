@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/NightYoshi370/nightyoshi370.github.io/pull/7) in [NightYoshi370/nightyoshi370.github.io](https://github.com/NightYoshi370/nightyoshi370.github.io)
+1. ❗️ Opened issue [#37](https://github.com/Universal-Team/Relaunch/issues/37) in [Universal-Team/Relaunch](https://github.com/Universal-Team/Relaunch)
 <!--END_SECTION:activity-->
 
 <!--
