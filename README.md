@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#826](https://github.com/nh-server/Kurisu/issues/826) in [nh-server/Kurisu](https://github.com/nh-server/Kurisu)
+1. ❗️ Closed issue [#1206](https://github.com/DS-Homebrew/TWiLightMenu/issues/1206) in [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
 <!--END_SECTION:activity-->
 
 <!--
