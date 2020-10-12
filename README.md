@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/cfw-guide/dsi.cfw.guide/pull/57) in [cfw-guide/dsi.cfw.guide](https://github.com/cfw-guide/dsi.cfw.guide)
+1. 🗣 Commented on [#9](https://github.com/DS-Homebrew/twlmenu-extras/issues/9) in [DS-Homebrew/twlmenu-extras](https://github.com/DS-Homebrew/twlmenu-extras)
 <!--END_SECTION:activity-->
 
 <!--
