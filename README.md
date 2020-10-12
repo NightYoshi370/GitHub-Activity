@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/DS-Homebrew/twlmenu-extras/issues/9) in [DS-Homebrew/twlmenu-extras](https://github.com/DS-Homebrew/twlmenu-extras)
+1. 🗣 Commented on [#826](https://github.com/nh-server/Kurisu/issues/826) in [nh-server/Kurisu](https://github.com/nh-server/Kurisu)
 <!--END_SECTION:activity-->
 
 <!--
