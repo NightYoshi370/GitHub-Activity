@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1206](https://github.com/DS-Homebrew/TWiLightMenu/issues/1206) in [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
+1. ❌ Closed PR [#14](https://github.com/RocketRobz/hiyaCFW/pull/14) in [RocketRobz/hiyaCFW](https://github.com/RocketRobz/hiyaCFW)
 <!--END_SECTION:activity-->
 
 <!--
