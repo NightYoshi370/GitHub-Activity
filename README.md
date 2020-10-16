@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/NightYoshi370/nightyoshi370.github.io/pull/8) in [NightYoshi370/nightyoshi370.github.io](https://github.com/NightYoshi370/nightyoshi370.github.io)
+1. 🗣 Commented on [#1209](https://github.com/DS-Homebrew/TWiLightMenu/issues/1209) in [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
 <!--END_SECTION:activity-->
 
 <!--
