@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/RocketRobz/hiyaCFW/pull/14) in [RocketRobz/hiyaCFW](https://github.com/RocketRobz/hiyaCFW)
+1. 🎉 Merged PR [#8](https://github.com/NightYoshi370/nightyoshi370.github.io/pull/8) in [NightYoshi370/nightyoshi370.github.io](https://github.com/NightYoshi370/nightyoshi370.github.io)
 <!--END_SECTION:activity-->
 
 <!--
