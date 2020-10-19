@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1216](https://github.com/DS-Homebrew/TWiLightMenu/pull/1216) in [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
+1. 🎉 Merged PR [#61](https://github.com/cfw-guide/dsi.cfw.guide/pull/61) in [cfw-guide/dsi.cfw.guide](https://github.com/cfw-guide/dsi.cfw.guide)
 <!--END_SECTION:activity-->
 
 <!--
