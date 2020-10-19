@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1209](https://github.com/DS-Homebrew/TWiLightMenu/issues/1209) in [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
+1. 💪 Opened PR [#1216](https://github.com/DS-Homebrew/TWiLightMenu/pull/1216) in [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
 <!--END_SECTION:activity-->
 
 <!--
