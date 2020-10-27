@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1216](https://github.com/DS-Homebrew/TWiLightMenu/pull/1216) in [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
+1. 💪 Opened PR [#6](https://github.com/DS-Homebrew/libslim/pull/6) in [DS-Homebrew/libslim](https://github.com/DS-Homebrew/libslim)
 <!--END_SECTION:activity-->
 
 <!--
